@@ -44,6 +44,6 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ecliptic/ecliptic-home"
+    "url": "git+https://github.com/ecliptic/ecliptic-home-architecture"
   }
 }
